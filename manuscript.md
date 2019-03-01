@@ -1,3 +1,3 @@
 # Manuscript
-Autor: Patricia
+Autor: Patricia Otto
 
