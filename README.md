@@ -1,2 +1,2 @@
 # article_manuscript
-Das ist ein Test Repo.
+Das ist ein Test Repository.
